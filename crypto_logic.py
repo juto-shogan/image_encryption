@@ -2,9 +2,8 @@ import cv2
 import numpy as np
 import os
 
-# =========================================================
 # CORE LOGIC
-# =========================================================
+
 def logistic_map(size, r=3.99, x0=0.5):
     """Generates the chaotic key sequence."""
     x = x0
