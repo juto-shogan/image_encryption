@@ -28,8 +28,8 @@ Project/
 ├── crypto_logic.py    # CORE LOGIC: Contains math, encryption, and ROI functions.
 ├── main.py            # SCRIPT: Run this for the desktop version (draw with mouse).
 ├── app.py             # WEB APP: Run this for the browser version (sliders).
-└── images/            # Folder where you can store input images (optional).
-    └── encrypted/     # The system automatically creates this folder for outputs.
+└── images/            # Folder where you can store input images .
+└── encrypted/     # The system automatically creates this folder for outputs.
 ```
 
 ---
